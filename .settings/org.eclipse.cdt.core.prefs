@@ -1,0 +1,12 @@
+#Mon Oct 19 18:10:06 BST 2015
+eclipse.preferences.version=1
+environment/project/com.xmos.cdt.toolchain.601243153/XMOS_MODULE_PATH/delimiter=;
+environment/project/com.xmos.cdt.toolchain.601243153/XMOS_MODULE_PATH/operation=append
+environment/project/com.xmos.cdt.toolchain.601243153/XMOS_MODULE_PATH/value=
+environment/project/com.xmos.cdt.toolchain.601243153/append=true
+environment/project/com.xmos.cdt.toolchain.601243153/appendContributed=true
+environment/project/com.xmos.cdt.toolchain.86684583/XMOS_MODULE_PATH/delimiter=;
+environment/project/com.xmos.cdt.toolchain.86684583/XMOS_MODULE_PATH/operation=append
+environment/project/com.xmos.cdt.toolchain.86684583/XMOS_MODULE_PATH/value=
+environment/project/com.xmos.cdt.toolchain.86684583/append=true
+environment/project/com.xmos.cdt.toolchain.86684583/appendContributed=true
