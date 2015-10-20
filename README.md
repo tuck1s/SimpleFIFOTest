@@ -12,7 +12,9 @@ On a StartKit I found stable running around 10us sending interval; much below th
 buffer overflow, which prints a '*' warning, which causes slowness, which causes overrun etc.
 
 Without all the debug code etc. you could probably run faster & harder.
-------------
-TODO: check some other tricky test cases such as
-- Producer blocked, consumer ready
-- Producer runs, then blocks; consumer catches up & empties buffer, producer starts again.  Consumer should be notified
+
+Added the following test cases:
+highThroughput
+producerSlow  
+oneFullBurst  
+makeOverflow  
